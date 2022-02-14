@@ -1,2 +1,2 @@
 # code-002
-clown site
+clone site
